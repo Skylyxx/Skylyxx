@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Skylyxx**, a French **Minecraft** & **Web** developper <img src="http://img.shields.io/badge/Discord-%40Skylyxx%238316-7289DA">
+I'm **Skylyxx**, a French **Minecraft** & **Web** developper <img src="http://img.shields.io/badge/Discord-%40Skylyxx%238816-7289DA">
 
 ![SkylyxxFR's github stats](https://github-readme-stats.vercel.app/api?username=SkylyxxFR)
 
