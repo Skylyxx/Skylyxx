@@ -7,6 +7,8 @@ I'm **Skylyxx**, a French **Minecraft** & **Web** developper <a href="https://di
 ### My projects
 
 <a href="https://github.com/Skylyxx/skdynmap"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Skylyxx&repo=skdynmap" /></a>
+<br>
+<a href="https://github.com/Skylyxx/SkriptDocsGenerator"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Skylyxx&repo=SkriptDocsGenerator" /></a>
 
 ### My contributions
 
