@@ -21,5 +21,5 @@ I'm **Skylyxx**, a French amateur developper <a href="https://discord.com/users/
 
 ## Statistics
 
-<p><img align="left" alt="Skylyxx's stats" src="https://github-readme-stats.vercel.app/api?username=Skylyxx&show_icons=true&layout=compact&theme=darcula&hide_border=true" />
+<p><img align="left" alt="Skylyxx's stats" src="https://github-readme-stats.vercel.app/api?username=Skylyxx&count_private=true&show_icons=true&layout=compact&theme=darcula&hide_border=true" />
 <img align="right" alt="Skylyxx's languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Skylyxx&theme=darcula&hide_border=true" /></p>
