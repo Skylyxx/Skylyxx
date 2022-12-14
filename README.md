@@ -2,7 +2,7 @@
 
 I'm **Skylyxx**, a French amateur developper <a href="https://discord.com/users/435756597168308225"><img src="http://img.shields.io/badge/Discord-%40Skylyxx%238816-7289DA"></a>
 
-- 🌱 I'm currently learning [Symfony](https://symfony.com/) and [TailwindCSS](https://tailwindcss.com/)
+- 🌱 I'm currently learning [GLua](https://wiki.facepunch.com/gmod/) programming and everything that is related to [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) content creation
 - 🔨 You can see all my project in [my repositories](https://github.com/Skylyxx?tab=repositories)
 - 💬 You can contact me on discord: [@Skylyxx#8816](https://discord.com/users/43575659716830822)
 
